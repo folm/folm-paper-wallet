@@ -1,0 +1,12 @@
+/node_modules
+/dist
+/.tmp
+/.sass-cache
+/bower_components
+/nav-paper-darwin-x64
+
+/.idea
+
+\.DS_Store
+
+NavCoinPaperWallet-1\.0\.1\.tgz
